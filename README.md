@@ -16,7 +16,7 @@ I'm a **Certified Public Accountant**, expert consultant in **SAP ERP systems**,
 
 ### GitHub Stats
 
-| <a href="https://sidval.github.io/conocimientos/#/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sidval&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub principal de Waldo" /></a> | <a href="https://sidval.github.io/conocimientos/#/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidval&layout=compact&hide_border=true" /></a> |
+| <a href="https://sidval.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sidval&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub principal de Waldo" /></a> | <a href="https://sidval.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidval&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 :man_technologist: Stats powered by <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#readme" target="_blank">@anuraghazra</a>
