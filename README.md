@@ -29,9 +29,10 @@ I'm a **Certified Public Accountant**, expert consultant in **SAP ERP systems**,
 
 ### 📚 Current interests
 - Cryptocurrencies, SAP Fiori, neuroplasticity, productivity, and designing simple systems to solve complex problems.
+- My Current [RoadMap](https://roadmap.sh/signup?rc=68d3f09dd7b6adb66d8e14e3):
 
 <a href="https://roadmap.sh/signup?rc=68d3f09dd7b6adb66d8e14e3" target="_blank">
-<img src="https://roadmap.sh/card/wide/68d3f09dd7b6adb66d8e14e3?variant=light" alt="roadmap.sh"/>
+<img src="https://api.roadmap.sh/v1-badge/wide/68d3f09dd7b6adb66d8e14e3?variant=light" alt="roadmap.sh" />
 </a>
 
 ### 🎯 My philosophy
