@@ -16,7 +16,7 @@ I'm a **Certified Public Accountant**, expert consultant in **SAP ERP systems**,
 
 ### GitHub Stats
 
-| <a href="/"><img align="center" src="https://github-stats-extended.vercel.app/api?username=sidval&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub principal de Waldo" /></a> | <a href="/"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sidval&langs_count=3&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/SidVal"><img align="center" src="https://github-stats-extended.vercel.app/api?username=sidval&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub principal de Waldo" /></a> | <a href="https://github.com/SidVal"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sidval&langs_count=3&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 :man_technologist: Stats powered by <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">@stats-organization</a>
