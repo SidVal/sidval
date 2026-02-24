@@ -16,10 +16,10 @@ I'm a **Certified Public Accountant**, expert consultant in **SAP ERP systems**,
 
 ### GitHub Stats
 
-| <a href="https://sidval.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sidval&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub principal de Waldo" /></a> | <a href="https://sidval.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidval&layout=compact&hide_border=true" /></a> |
+| <a href="/"><img align="center" src="https://github-stats-extended.vercel.app/api?username=sidval&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub principal de Waldo" /></a> | <a href="/"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sidval&langs_count=3&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-:man_technologist: Stats powered by <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#readme" target="_blank">@anuraghazra</a>
+:man_technologist: Stats powered by <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">@stats-organization</a>
 
 ### 💡 Some personal projects
 - Google Sheets automations for sales, loyalty systems, and dynamic pricing.
@@ -28,12 +28,11 @@ I'm a **Certified Public Accountant**, expert consultant in **SAP ERP systems**,
 - AI-enhanced self-managed community forums.
 
 ### 📚 Current interests
-- Cryptocurrencies, SAP Fiori, neuroplasticity, productivity, and designing simple systems to solve complex problems.
-- My Current [RoadMap](https://roadmap.sh/signup?rc=68d3f09dd7b6adb66d8e14e3):
+- Cryptocurrencies
+- Neuroplasticity
+- Productivity
+- And designing simple systems to solve complex problems
 
-<a href="https://roadmap.sh/signup?rc=68d3f09dd7b6adb66d8e14e3" target="_blank">
-<img src="https://api.roadmap.sh/v1-badge/wide/68d3f09dd7b6adb66d8e14e3?variant=light" alt="roadmap.sh" />
-</a>
 
 ### 🎯 My philosophy
 > “Make it simple, but not simplistic. If you can't automate it, structure it.”
