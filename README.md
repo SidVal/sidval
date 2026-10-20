@@ -46,7 +46,6 @@ I'm a **Certified Public Accountant**, expert consultant in **SAP ERP systems**,
 🔗 **You can also find me at**  
 📘 [LocademiaDigital.com](https://www.locademiadigital.com) — content on productivity, marketing, and digital tools  
 🧠 [consultoria-sap.com](https://www.consultoria-sap.com) — SAP professional community (in Spanish)  
-🎥 [YouTube (coming soon)](https://youtube.com/@LocademiaCripto) — trading and automation for crypto markets
 
 ---
 
