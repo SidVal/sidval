@@ -1,4 +1,8 @@
-# 👋 Hi! I'm Waldo
+# Systems Analyst & Web Developer 
+
+> Astro, TypeScript, Cloudflare Workers
+
+## 👋 Hi! I'm Waldo
 
 I'm a **Certified Public Accountant**, expert consultant in **SAP ERP systems**, and developer of digital solutions focused on **automation, UX, and business efficiency**.
 
